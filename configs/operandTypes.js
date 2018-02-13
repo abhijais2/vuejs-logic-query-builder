@@ -26,6 +26,21 @@ const operandTypes = {
         label: '>=',
         id: '>=',
         value: '>='
+      },
+      {
+        label: '<=',
+        id: '<=',
+        value: '<='
+      },
+      {
+        label: '>',
+        id: '>',
+        value: '>'
+      },
+      {
+        label: '<',
+        id: '<',
+        value: '<'
       }
     ],
     inputType: 'number',
